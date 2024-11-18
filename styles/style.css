@@ -1,6 +1,6 @@
 @font-face{
   font-family: 'myFont' ;
-  src: url(/fonts/Figtree-VariableFont_wght.ttf);
+  src: url(fonts/Figtree-VariableFont_wght.ttf);
 }
 p{
   font-size: 16px;
